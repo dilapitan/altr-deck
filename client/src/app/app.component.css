@@ -1,0 +1,18 @@
+.fill-remaining-space {
+  flex: 1 1 auto;
+}
+
+.nav-links {
+  margin-right: 15px;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.nav-links-underlined {
+  text-decoration: underline;
+}
+
+.mat-toolbar.mat-primary {
+    background: #263238 !important;
+    color: #fff !important;
+}
